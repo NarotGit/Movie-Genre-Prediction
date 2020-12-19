@@ -19,6 +19,7 @@ Link:"https://github.com/NarotGit/Movie-Genre-Prediction"
 •  Please do ⭐ the repository, if it helped you in anyway.
 
 • A glimpse of the web app:
+https://user-images.githubusercontent.com/76248668/102700962-1f165c80-4278-11eb-8c1e-b9c1226d9788.mp4
 
 
 
