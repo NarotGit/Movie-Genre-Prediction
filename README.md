@@ -8,7 +8,7 @@
 • This repository consists of files required to deploy a Movie genre predicton  ___ML Web app  and created with ___Flask___ on __Heroku__ platform
 
 • If you want to view the deployed model, click on the following link:<br>
-link:"https://traffic-sign-recognization-api.herokuapp.com/"
+link:""
 
 • If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model...Click the link mentioned below for the same:
 link:"https://github.com/NarotGit/Movie-Genre-Prediction/blob/main/MGC_model.ipynb"
