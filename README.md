@@ -1,7 +1,7 @@
 # Movie-Genre-Prediction
 
 
-
+### Firstly most of credit of this project goes to anujvyas(https://github.com/anujvyas) it was one of his project. As i was interested in doing it and worked on it with few changes.<br>
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.7](https://img.shields.io/badge/Python-3.7-brightgreen.svg) ![Python 3.7](https://img.shields.io/badge/Library-NLTK%203.5-red)<br>
 • Dataset: Provided in repository
 
