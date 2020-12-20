@@ -5,7 +5,7 @@
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.7](https://img.shields.io/badge/Python-3.7-brightgreen.svg) ![Python 3.7](https://img.shields.io/badge/Library-NLTK%203.5-red)<br>
 • Dataset: Provided in repository.
 
-• This repository consists of files required to deploy a Movie genre predicton  ___ML Web app  and created with ___Flask___ on __Heroku__ platform
+• This repository consists of files required to deploy a Movie genre predicton  ___ML Web app__  and created with ___Flask___ on __Heroku__ platform.
 
 • If you want to view the deployed model, click on the following link:<br>
 link:"https://movie-genre-prediction-api.herokuapp.com/"
